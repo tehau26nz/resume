@@ -1,0 +1,22 @@
+body {
+    background-color: #dff6ff;
+  }
+
+h1{
+    color: royalblue;
+}
+ h3 {
+    color: rgb(37, 69, 165);
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 3%;
+  }
+
+  img {
+    height: 200px;
+  }
