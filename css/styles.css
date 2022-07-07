@@ -18,5 +18,17 @@ h1{
   }
 
   img {
-    height: 200px;
+    height: 100px;
+  }
+
+/*** CLASS SELECTOR ***/
+.computer{
+  display: block;
+}
+
+
+/*** ID SELECTOR ***/
+
+  #profile-img{
+    height: 150px;
   }
