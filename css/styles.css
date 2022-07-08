@@ -71,12 +71,14 @@ hr {
   background-color: #90C8AC;
   padding: 10px 0 10px 0;
   margin: 0 auto;
+  width: 100%;
 }
 
 .middle-container {
   background-color: #C4DFAA;
   padding: 10px 0 10px 0;
   margin: 0 auto;
+  width: 100%;
 }
 
 .mount {
@@ -101,7 +103,6 @@ hr {
   right: 300px;
   top: 50px;
   margin: 0 auto;
-
 }
 
 .top-container {
@@ -109,6 +110,7 @@ hr {
   position: relative;
   padding-top: 100px;
   margin: 0 auto;
+  width: 100%;
 
 }
 
