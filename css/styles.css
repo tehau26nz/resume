@@ -77,8 +77,10 @@ hr {
 }
 
 .mount {
-  position: relative;
+  margin: 10px auto 10px auto;
+  width: 40%;
 }
+
 
 .skills {
   margin: 100px auto 100px auto;
