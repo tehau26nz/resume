@@ -38,6 +38,11 @@ table {
   box-sizing: content-box;
 }
 
+tr td:last-child {
+  width: 1%;
+  white-space: nowrap;
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -63,6 +68,7 @@ hr {
 
 .bottom-container {
   background-color: #90C8AC;
+  padding: 10px 0 10px 0;
 }
 
 .middle-container {
@@ -118,4 +124,14 @@ hr {
 #contact-image {
   width: 5%;
   margin-top: 30px;
+}
+
+#linkedin {
+  width: 60px;
+  margin: 0 30px 0;
+}
+
+#email {
+  width: 60px;
+  margin: 0 30px 0;
 }
