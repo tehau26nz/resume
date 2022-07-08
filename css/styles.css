@@ -64,16 +64,19 @@ hr {
   position: absolute;
   left: 300px;
   bottom: 300px;
+  margin: 0 auto;
 }
 
 .bottom-container {
   background-color: #90C8AC;
   padding: 10px 0 10px 0;
+  margin: 0 auto;
 }
 
 .middle-container {
   background-color: #C4DFAA;
   padding: 10px 0 10px 0;
+  margin: 0 auto;
 }
 
 .mount {
@@ -97,6 +100,7 @@ hr {
   position: absolute;
   right: 300px;
   top: 50px;
+  margin: 0 auto;
 
 }
 
@@ -104,6 +108,7 @@ hr {
   background-color: #F5F0BB;
   position: relative;
   padding-top: 100px;
+  margin: 0 auto;
 
 }
 
